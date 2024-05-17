@@ -82,9 +82,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=1455&e=.m3u8
 #EXTINF:-1 tvg-id="1514" tvg-name="Kannur One" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png",Kannur One
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1514&e=.m3u8
 
-#EXTINF:-1 tvg-id="1552" tvg-name="Malanadu TV" tvg-type="Infotainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png",Malanadu TV
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=1552&e=.m3u8
-
 #EXTINF:-1 tvg-id="1618" tvg-name="Real News Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1618&e=.m3u8
 
@@ -102,9 +99,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=1754&e=.m3u8
 
 #EXTINF:-1 tvg-id="1966" tvg-name="Live TV Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png",Live TV Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1966&e=.m3u8
-
-#EXTINF:-1 tvg-id="2004" tvg-name="Shekinah TV" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png",Shekinah TV
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=2004&e=.m3u8
 
 #EXTINF:-1 tvg-id="2039" tvg-name="Adipolli" tvg-type="Music" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png",Adipolli
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=2039&e=.m3u8

@@ -1,113 +1,153 @@
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",Asianet News
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=180&e=.m3u8
 
-#EXTINF:-1 tvg-id="465" tvg-name="Jaihind tv" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png",Jaihind tv
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png",Jaihind tv
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=465&e=.m3u8
 
-#EXTINF:-1 tvg-id="556" tvg-name="Kochu TV" tvg-type="Kids" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",Kochu TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",Kochu TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=556&e=.m3u8
 
-#EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-type="Lifestyle" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=563&e=.m3u8
 
-#EXTINF:-1 tvg-id="634" tvg-name="Flower TV" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=634&e=.m3u8
 
-#EXTINF:-1 tvg-id="648" tvg-name="Mazhavil Manorama" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=648&e=.m3u8
 
-#EXTINF:-1 tvg-id="650" tvg-name="Raj News Malayalam" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News Malayalam
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News Malayalam
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=650&e=.m3u8
 
-#EXTINF:-1 tvg-id="662" tvg-name="Manorama News" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png",Manorama News
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png",Manorama News
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=662&e=.m3u8
 
-#EXTINF:-1 tvg-id="699" tvg-name="DD Malayalam" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=699&e=.m3u8
 
-#EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",Kairali TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",Kairali TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=710&e=.m3u8
 
-#EXTINF:-1 tvg-id="723" tvg-name="Amrita TV" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",Amrita TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",Amrita TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=723&e=.m3u8
 
-#EXTINF:-1 tvg-id="725" tvg-name="Kairali News" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png",Kairali News
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=725&e=.m3u8
-
-#EXTINF:-1 tvg-id="731" tvg-name="Kairali WE TV" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",Kairali WE TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",Kairali WE TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=731&e=.m3u8
 
-#EXTINF:-1 tvg-id="739" tvg-name="Raj Music Malayalam" tvg-type="Music" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png",Raj Music Malayalam
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png",Raj Music Malayalam
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=739&e=.m3u8
 
-#EXTINF:-1 tvg-id="747" tvg-name="Surya Music" tvg-type="Music" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",Surya Music
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",Surya Music
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=747&e=.m3u8
 
-#EXTINF:-1 tvg-id="780" tvg-name="Mathrubhumi News" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",Mathrubhumi News
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",Mathrubhumi News
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=780&e=.m3u8
 
-#EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-type="Music" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=786&e=.m3u8
 
-#EXTINF:-1 tvg-id="810" tvg-name="Janam TV" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam TV
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=810&e=.m3u8
-
-#EXTINF:-1 tvg-id="842" tvg-name="Jeevan TV" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png",Jeevan TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png",Jeevan TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=842&e=.m3u8
 
-#EXTINF:-1 tvg-id="844" tvg-name="Mazavali Manorama HD" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazavali Manorama HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazavali Manorama HD
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=844&e=.m3u8
 
-#EXTINF:-1 tvg-id="900" tvg-name="Surya HD" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png",Surya HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png",Surya HD
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=900&e=.m3u8
 
-#EXTINF:-1 tvg-id="910" tvg-name="Media One TV" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png",Media One TV
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png",Media One TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=910&e=.m3u8
 
-#EXTINF:-1 tvg-id="965" tvg-name="News 18 Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",News 18 Kerala
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",News 18 Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=965&e=.m3u8
 
-#EXTINF:-1 tvg-id="1250" tvg-name="Twenty Four News" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",Twenty Four News
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",Twenty Four News
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1250&e=.m3u8
 
-#EXTINF:-1 tvg-id="1344" tvg-name="Sonic Malayalam" tvg-type="Kids" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",Sonic Malayalam
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",Sonic Malayalam
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1344&e=.m3u8
 
-#EXTINF:-1 tvg-id="1429" tvg-name="KITE VICTERS" tvg-type="Educational" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png",KITE VICTERS
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png",KITE VICTERS
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1429&e=.m3u8
 
-#EXTINF:-1 tvg-id="1455" tvg-name="Janapriyam" tvg-type="Infotainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png",Janapriyam
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png",Janapriyam
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1455&e=.m3u8
 
-#EXTINF:-1 tvg-id="1514" tvg-name="Kannur One" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png",Kannur One
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png",Kannur One
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1514&e=.m3u8
 
-#EXTINF:-1 tvg-id="1618" tvg-name="Real News Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1618&e=.m3u8
 
-#EXTINF:-1 tvg-id="1641" tvg-name="Zee Keralam HD" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",Zee Keralam HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",Zee Keralam HD
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1641&e=.m3u8
 
-#EXTINF:-1 tvg-id="1662" tvg-name="Surya Comedy" tvg-type="Entertainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",Surya Comedy
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",Surya Comedy
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1662&e=.m3u8
 
-#EXTINF:-1 tvg-id="1666" tvg-name="Safari TV " tvg-type="Infotainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",Safari TV 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",Safari TV 
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1666&e=.m3u8
 
-#EXTINF:-1 tvg-id="1754" tvg-name="Surya Movies" tvg-type="Movies" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png",Surya Movies
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png",Surya Movies
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1754&e=.m3u8
 
-#EXTINF:-1 tvg-id="1966" tvg-name="Live TV Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png",Live TV Kerala
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png",Live TV Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1966&e=.m3u8
 
-#EXTINF:-1 tvg-id="2039" tvg-name="Adipolli" tvg-type="Music" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png",Adipolli
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png",Adipolli
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=2039&e=.m3u8
 
-#EXTINF:-1 tvg-id="2960" tvg-name="Sony Ten 1 HD Malayalam" tvg-type="Sports" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png",Sony Ten 1 HD Malayalam
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=2960&e=.m3u8
-
-#EXTINF:-1 tvg-id=ts753 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+",MTV Beats HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id=ts1145 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV+",MTV HD Plus
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",Zoom TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_BoxCover-v2/Showbox_BoxCover.jpg",ShowBox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pd1TJx7/220px-E24-TV-Channel.jpg",E24
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",MASTIII
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9x Jalwa
+http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",9x Tashan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+#EXTINF:-1 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8

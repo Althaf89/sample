@@ -49,9 +49,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=780&e=.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-type="Music" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=786&e=.m3u8
 
-#EXTINF:-1 tvg-id="797" tvg-name="testii" tvg-type="Lifestyle" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png",testii
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=797&e=.m3u8
-
 #EXTINF:-1 tvg-id="810" tvg-name="Janam TV" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=810&e=.m3u8
 
@@ -66,9 +63,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=900&e=.m3u8
 
 #EXTINF:-1 tvg-id="910" tvg-name="Media One TV" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png",Media One TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=910&e=.m3u8
-
-#EXTINF:-1 tvg-id="953" tvg-name="Propex TV" tvg-type="Lifestyle" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png",Propex TV
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=953&e=.m3u8
 
 #EXTINF:-1 tvg-id="965" tvg-name="News 18 Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",News 18 Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=965&e=.m3u8
@@ -90,9 +84,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=1514&e=.m3u8
 
 #EXTINF:-1 tvg-id="1552" tvg-name="Malanadu TV" tvg-type="Infotainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png",Malanadu TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1552&e=.m3u8
-
-#EXTINF:-1 tvg-id="1606" tvg-name="Ken TV Keralam" tvg-type="Infotainment" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png",Ken TV Keralam
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=1606&e=.m3u8
 
 #EXTINF:-1 tvg-id="1618" tvg-name="Real News Kerala" tvg-type="News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1618&e=.m3u8

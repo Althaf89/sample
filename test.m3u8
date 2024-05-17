@@ -105,3 +105,9 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=2039&e=.m3u8
 
 #EXTINF:-1 tvg-id="2960" tvg-name="Sony Ten 1 HD Malayalam" tvg-type="Sports" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png",Sony Ten 1 HD Malayalam
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=2960&e=.m3u8
+
+#EXTINF:-1 tvg-id=ts753 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+",MTV Beats HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id=ts1145 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV+",MTV HD Plus
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8

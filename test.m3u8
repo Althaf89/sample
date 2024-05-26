@@ -64,9 +64,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=965&e=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",Twenty Four News
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1250&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=1618&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png",Jaihind tv
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=465&e=.m3u8
 
@@ -85,19 +82,24 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=1344&e=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png",KITE VICTERS
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1429&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png",Janapriyam
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=1455&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png",Kannur One
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=1514&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",Safari TV 
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=1666&e=.m3u8
+
++++++++++(ENGLISH)---------------
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD  
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-+++++++++(HINDHI)---------------
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png" group-title="Movie",StarMovies
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png",Discovery HD
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+
++++++++++(HINDI)---------------
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8

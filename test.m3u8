@@ -10,6 +10,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazavali Manorama HD
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 
@@ -28,9 +31,6 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",Safari TV 
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-
 +++++++++(ENGLISH)---------------
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD  
@@ -44,6 +44,9 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png",Discovery HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",SONY BBC EARTH HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 +++++++++(HINDI)---------------
 

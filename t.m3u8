@@ -37,6 +37,5 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=556&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 
-
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",StarMovies
-http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32

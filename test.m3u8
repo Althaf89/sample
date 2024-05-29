@@ -31,7 +31,6 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
-
 +++++++++(ENGLISH)---------------
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD  
@@ -39,9 +38,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",StarMovies
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
-
-#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",StarMovies
-http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",Animal Planet
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8

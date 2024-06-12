@@ -46,9 +46,6 @@ http://starshare.live:8080/irfan/irfan/4051
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
 http://starshare.live:8080/irfan/irfan/9039
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazavali Manorama HD
-http://starshare.live:8080/irfan/irfan/23311
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",Zee Keralam HD
 http://starshare.live:8080/irfan/irfan/98895
 
@@ -72,8 +69,8 @@ http://starshare.live:8080/irfan/irfan/9034
 
 +++++++++(ENGLISH)---------------
 
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD  
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",StarMovies
 http://opplextv.cyou:8080//live/7262771/7272772/66213.ts

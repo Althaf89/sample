@@ -74,7 +74,7 @@ http://59.103.38.46:8000/play/a052/index.m3u8
 
 +++++++++(HINDI)---------------
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Music",MTV 
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM

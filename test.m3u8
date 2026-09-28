@@ -81,7 +81,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",MUSIC INDIA
-https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+https://gist.github.com/rajmalviyan/f6c2f9ceacf61a55042496db4bdc9b3d
 
 #EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",Zoom TV
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
